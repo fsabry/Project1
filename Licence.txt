@@ -1,0 +1,26 @@
+Multi Password Recovery ("MPR") (c) Alexandr Demcenko 2008. All rights reserved.
+
+This licence describes the conditions under which you may use Multi Password Recovery ("the program"). If you are unable or unwilling to accept these conditions in full, then, notwithstanding the conditions in the remainder of this licence, you may not use the program at all.
+
+The program is "try-before-you-buy" software. Unregistered copy of the program can be only used for evaluational purposes and allows you to view passwords shorter than three characters only. Registration gives you the right to see the entirely decrypted password and use features available only for registered users. Before the expiration of the 30-day trial period you must either register your copy of the program or stop using it.
+
+You are granted a non-exclusive licence to use the program on one computer at a
+time. The program may not be rented, leased or transferred.
+
+Any use of the program which is illegal under international or local law is forbidden by this licence. Any such action is the sole responsibility of the person committing the action. 
+
+The program is distributed "AS IS" and you assume full responsibility for determining the suitability of the program and for results obtained. 
+
+Alexandr Demcenko makes no warranty that all errors have been or can be eliminated from the program software and, with respect thereto, Alexandr Demcenko shall not be responsible for losses, damages, costs, or expenses of any kind resulting from using or misusing the program including without limitation, any liability for business expenses, machine downtime, damages experienced by you or any third person as a result of any deficiency, defect, bug, error or malfunction. Alexandr Demcenko shall not be liable for any indirect, special, incidental, or consequential damages relating to or arising out of the subject matter of this Agreement or actions taken thereunder 
+
+NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE THE PROGRAM AT YOUR OWN RISK. Alexandr Demcenko DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. NOBODY WILL BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE. 
+
+You may not distribute, copy, emulate, clone, rent, lease and sell the program. Also, you may not  modify, decompile, disassemble, otherwise reverse engineer, or transfer the program, or any subset of the program, except to the extent and for the express purposes authorized by applicable law. Any such unauthorised use shall result in immediate and automatic termination of this licence and may result in criminal or civil prosecution. 
+
+All rights not expressly granted here are reserved by Alexandr Demcenko.
+
+Alexandr Demcenko reserves the right to make exceptions to any of these conditions, or alter these conditions, at any time. However, you may always use these conditions instead of any altered version if you prefer (note that this licence explicitly applies only to one version of the program; therefore, if Alexandr Demcenko makes new conditions in connection with a future version, you do not then have the right to apply these conditions to that version instead).
+
+Installing or using the program signifies acceptance of these terms and conditions of the licence.
+
+If you do not agree with the terms of this licence you must remove the program files from your storage devices and cease to use the program.
